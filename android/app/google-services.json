@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345850900800",
+    "project_id": "farmer-kart",
+    "storage_bucket": "farmer-kart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345850900800:android:cc7323583e7f7415a88aa5",
+        "android_client_info": {
+          "package_name": "com.viga.farmer_kart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345850900800-e2fg1mpsepn4cpki0qehr7rggsven0d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viga.farmer_kart",
+            "certificate_hash": "f29889231199bc0de99ff587c10d5e28a2459665"
+          }
+        },
+        {
+          "client_id": "345850900800-9a5go6kg718nrhstjojfpb5pbhd9nne6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg65TkMBiy3P3JHz-KiYy8ITJTZJskwDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345850900800-9a5go6kg718nrhstjojfpb5pbhd9nne6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

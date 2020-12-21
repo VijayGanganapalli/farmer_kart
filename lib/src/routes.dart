@@ -9,16 +9,12 @@ abstract class Routes {
     switch (settings.name) {
       case "/":
         return MaterialPageRoute(builder: (context) => LandingScreen());
-        break;
       case "/signup":
         return MaterialPageRoute(builder: (context) => SignupScreen());
-        break;
       case "/login":
         return MaterialPageRoute(builder: (context) => LoginScreen());
-        break;
       default:
         return MaterialPageRoute(builder: (context) => LoginScreen());
-        break;
     }
   }
 
@@ -26,16 +22,12 @@ abstract class Routes {
     switch (settings.name) {
       case "/":
         return CupertinoPageRoute(builder: (context) => LandingScreen());
-        break;
       case "/signup":
         return CupertinoPageRoute(builder: (context) => SignupScreen());
-        break;
       case "/login":
         return CupertinoPageRoute(builder: (context) => LoginScreen());
-        break;
       default:
         return CupertinoPageRoute(builder: (context) => LoginScreen());
-        break;
     }
   }
 }
